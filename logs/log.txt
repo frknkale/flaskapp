@@ -1,0 +1,360 @@
+Mon Aug 26 11:07:55 2024 : Login page accessed
+Mon Aug 26 11:08:07 2024 : User jkjk logged in successfully
+Mon Aug 26 11:08:07 2024 : Account page accessed by jkjk
+Mon Aug 26 11:08:24 2024 : Login page accessed
+Mon Aug 26 11:08:29 2024 : Admin logged in successfully
+Mon Aug 26 11:08:30 2024 : Admin page accessed
+Mon Aug 26 11:08:30 2024 : User list retrieved
+Mon Aug 26 11:08:30 2024 : Online user list retrieved
+Mon Aug 26 11:08:40 2024 : User jkjk logged out successfully
+Mon Aug 26 11:08:40 2024 : Login page accessed
+Mon Aug 26 11:08:45 2024 : Admin page accessed
+Mon Aug 26 11:08:45 2024 : Online user list retrieved
+Mon Aug 26 11:08:45 2024 : User list retrieved
+Mon Aug 26 11:26:23 2024 : Login page accessed
+Mon Aug 26 11:26:29 2024 : Admin logged in successfully
+Mon Aug 26 11:26:29 2024 : Admin page accessed
+Mon Aug 26 11:26:29 2024 : User list retrieved
+Mon Aug 26 11:26:29 2024 : Online user list retrieved
+Mon Aug 26 11:28:09 2024 : Login page accessed
+Mon Aug 26 11:28:15 2024 : Admin logged in successfully
+Mon Aug 26 11:28:15 2024 : Admin page accessed
+Mon Aug 26 11:28:15 2024 : Online user list retrieved
+Mon Aug 26 11:28:15 2024 : User list retrieved
+Mon Aug 26 11:28:16 2024 : Logs retrieved
+Mon Aug 26 11:28:21 2024 : Logs retrieved
+Mon Aug 26 11:34:11 2024 : Admin page accessed
+Mon Aug 26 11:34:11 2024 : Online user list retrieved
+Mon Aug 26 11:34:11 2024 : User list retrieved
+Mon Aug 26 11:34:12 2024 : Logs retrieved
+Mon Aug 26 11:34:15 2024 : Logs retrieved
+Mon Aug 26 11:34:42 2024 : Admin page accessed
+Mon Aug 26 11:34:42 2024 : User list retrieved
+Mon Aug 26 11:34:42 2024 : Online user list retrieved
+Mon Aug 26 11:34:46 2024 : Logs retrieved
+Mon Aug 26 11:34:48 2024 : Logs retrieved
+Mon Aug 26 11:35:18 2024 : Admin page accessed
+Mon Aug 26 11:35:18 2024 : User list retrieved
+Mon Aug 26 11:35:18 2024 : Online user list retrieved
+Mon Aug 26 11:35:21 2024 : Admin page accessed
+Mon Aug 26 11:35:21 2024 : User list retrieved
+Mon Aug 26 11:35:21 2024 : Online user list retrieved
+Mon Aug 26 11:35:23 2024 : Logs retrieved
+Mon Aug 26 11:35:27 2024 : Logs retrieved
+Mon Aug 26 11:35:29 2024 : Admin page accessed
+Mon Aug 26 11:35:29 2024 : Online user list retrieved
+Mon Aug 26 11:35:29 2024 : User list retrieved
+Mon Aug 26 11:37:11 2024 : Logs retrieved
+Mon Aug 26 11:37:46 2024 : Admin page accessed
+Mon Aug 26 11:37:46 2024 : User list retrieved
+Mon Aug 26 11:37:46 2024 : Online user list retrieved
+Mon Aug 26 11:37:47 2024 : Logs retrieved
+Mon Aug 26 11:37:58 2024 : Admin page accessed
+Mon Aug 26 11:37:58 2024 : Online user list retrieved
+Mon Aug 26 11:37:58 2024 : User list retrieved
+Mon Aug 26 11:37:59 2024 : Logs retrieved
+Mon Aug 26 11:41:21 2024 : Admin page accessed
+Mon Aug 26 11:41:21 2024 : User list retrieved
+Mon Aug 26 11:41:21 2024 : Online user list retrieved
+Mon Aug 26 11:41:24 2024 : Logs retrieved
+Mon Aug 26 11:41:28 2024 : Logs retrieved
+Mon Aug 26 11:42:40 2024 : Admin page accessed
+Mon Aug 26 11:42:40 2024 : Online user list retrieved
+Mon Aug 26 11:42:40 2024 : User list retrieved
+Mon Aug 26 11:42:42 2024 : Logs retrieved
+Mon Aug 26 11:42:53 2024 : Login page accessed
+Mon Aug 26 11:43:00 2024 : Admin logged in successfully
+Mon Aug 26 11:43:00 2024 : Admin page accessed
+Mon Aug 26 11:43:00 2024 : User list retrieved
+Mon Aug 26 11:43:00 2024 : Online user list retrieved
+Mon Aug 26 11:43:01 2024 : Logs retrieved
+Mon Aug 26 11:47:07 2024 : Logs retrieved
+Mon Aug 26 11:52:05 2024 : Admin page accessed
+Mon Aug 26 11:52:05 2024 : User list retrieved
+Mon Aug 26 11:52:05 2024 : Online user list retrieved
+Mon Aug 26 11:52:09 2024 : Logs retrieved
+Mon Aug 26 11:52:12 2024 : Logs retrieved
+Mon Aug 26 11:52:13 2024 : Logs retrieved
+Mon Aug 26 11:52:17 2024 : Admin page accessed
+Mon Aug 26 11:52:17 2024 : Online user list retrieved
+Mon Aug 26 11:52:17 2024 : User list retrieved
+Mon Aug 26 11:52:19 2024 : Logs retrieved
+Mon Aug 26 11:52:32 2024 : Admin page accessed
+Mon Aug 26 11:52:32 2024 : User list retrieved
+Mon Aug 26 11:52:32 2024 : Online user list retrieved
+Mon Aug 26 11:52:32 2024 : Logs retrieved
+Mon Aug 26 11:53:10 2024 : Admin page accessed
+Mon Aug 26 11:53:10 2024 : Online user list retrieved
+Mon Aug 26 11:53:10 2024 : User list retrieved
+Mon Aug 26 11:53:11 2024 : Logs retrieved
+Mon Aug 26 11:53:15 2024 : Admin page accessed
+Mon Aug 26 11:53:15 2024 : Online user list retrieved
+Mon Aug 26 11:53:15 2024 : User list retrieved
+Mon Aug 26 11:53:16 2024 : Logs retrieved
+Mon Aug 26 11:53:25 2024 : Admin page accessed
+Mon Aug 26 11:53:25 2024 : Online user list retrieved
+Mon Aug 26 11:53:25 2024 : User list retrieved
+Mon Aug 26 11:53:25 2024 : Logs retrieved
+Mon Aug 26 11:53:36 2024 : Admin page accessed
+Mon Aug 26 11:53:36 2024 : Online user list retrieved
+Mon Aug 26 11:53:36 2024 : User list retrieved
+Mon Aug 26 11:53:37 2024 : Logs retrieved
+Mon Aug 26 12:02:23 2024 : Login page accessed
+Mon Aug 26 12:02:24 2024 : Login page accessed
+Mon Aug 26 12:02:41 2024 : User jkjk logged in successfully
+Mon Aug 26 12:02:41 2024 : Account page accessed by jkjk
+Mon Aug 26 12:02:55 2024 : User jkjk logged out successfully
+Mon Aug 26 12:02:55 2024 : Login page accessed
+Mon Aug 26 12:03:01 2024 : Admin logged in successfully
+Mon Aug 26 12:03:01 2024 : Admin page accessed
+Mon Aug 26 12:03:01 2024 : User list retrieved
+Mon Aug 26 12:03:01 2024 : Online user list retrieved
+Mon Aug 26 12:03:12 2024 : Login page accessed
+Mon Aug 26 13:31:03 2024 : Home route accessed
+Mon Aug 26 13:31:03 2024 : Login page accessed
+Mon Aug 26 13:32:24 2024 : Login page accessed
+Mon Aug 26 13:53:41 2024 : Home route accessed
+Mon Aug 26 13:53:41 2024 : Login page accessed
+Mon Aug 26 13:56:15 2024 : Home route accessed
+Mon Aug 26 13:56:15 2024 : Login page accessed
+Mon Aug 26 13:56:35 2024 : Login page accessed
+Mon Aug 26 13:59:16 2024 : Login page accessed
+Mon Aug 26 14:24:46 2024 : Login page accessed
+Mon Aug 26 14:24:47 2024 : Login page accessed
+Mon Aug 26 14:24:59 2024 : Login page accessed
+Mon Aug 26 14:25:00 2024 : Signup page accessed
+Mon Aug 26 14:31:35 2024 : Login page accessed
+Mon Aug 26 14:31:36 2024 : Login page accessed
+Mon Aug 26 14:31:43 2024 : User jkjk logged in successfully
+Mon Aug 26 14:31:43 2024 : Account page accessed by jkjk
+Mon Aug 26 14:31:44 2024 : Update page accessed by jkjk
+Mon Aug 26 14:41:04 2024 : Home route accessed
+Mon Aug 26 14:41:04 2024 : Login page accessed
+Mon Aug 26 14:46:33 2024 : Update page accessed by jkjk
+Mon Aug 26 14:46:37 2024 : Account page accessed by jkjk
+Mon Aug 26 14:46:38 2024 : Update page accessed by jkjk
+Mon Aug 26 14:46:46 2024 : Home route accessed
+Mon Aug 26 14:46:46 2024 : Login page accessed
+Mon Aug 26 14:46:55 2024 : User jkjk logged out successfully
+Mon Aug 26 14:46:55 2024 : User jkjk logged in successfully
+Mon Aug 26 14:46:55 2024 : Account page accessed by jkjk
+Mon Aug 26 14:46:58 2024 : Update page accessed by jkjk
+Mon Aug 26 14:47:22 2024 : Update page accessed by jkjk
+Mon Aug 26 14:48:08 2024 : Account page accessed by jkjk
+Mon Aug 26 14:48:22 2024 : Home route accessed
+Mon Aug 26 14:48:22 2024 : Login page accessed
+Mon Aug 26 14:48:30 2024 : User jkjk logged out successfully
+Mon Aug 26 14:48:30 2024 : User jkjk logged in successfully
+Mon Aug 26 14:48:30 2024 : Account page accessed by jkjk
+Mon Aug 26 14:48:36 2024 : Update page accessed by jkjk
+Mon Aug 26 14:49:57 2024 : Update page accessed by jkjk
+Mon Aug 26 14:50:25 2024 : Home route accessed
+Mon Aug 26 14:50:25 2024 : Login page accessed
+Mon Aug 26 14:50:31 2024 : User jkjk logged in successfully
+Mon Aug 26 14:50:31 2024 : Account page accessed by jkjk
+Mon Aug 26 14:52:03 2024 : Login page accessed
+Mon Aug 26 14:52:26 2024 : Home route accessed
+Mon Aug 26 14:52:26 2024 : Login page accessed
+Mon Aug 26 14:52:31 2024 : User jkjk logged in successfully
+Mon Aug 26 14:52:31 2024 : Account page accessed by jkjk
+Mon Aug 26 14:52:33 2024 : Update page accessed by jkjk
+Mon Aug 26 14:52:43 2024 : User jkjk logged out successfully
+Mon Aug 26 14:52:44 2024 : User jkjk logged in successfully
+Mon Aug 26 14:52:44 2024 : Account page accessed by jkjk
+Mon Aug 26 14:52:45 2024 : Update page accessed by jkjk
+Mon Aug 26 14:53:14 2024 : Account page accessed by jkjk
+Mon Aug 26 14:53:14 2024 : Account page accessed by jkjk
+Mon Aug 26 14:53:18 2024 : Home route accessed
+Mon Aug 26 14:53:18 2024 : Login page accessed
+Mon Aug 26 14:53:24 2024 : User jkjk logged out successfully
+Mon Aug 26 14:53:24 2024 : User jkjk logged in successfully
+Mon Aug 26 14:53:24 2024 : Account page accessed by jkjk
+Mon Aug 26 14:53:25 2024 : Update page accessed by jkjk
+Mon Aug 26 14:54:10 2024 : Home route accessed
+Mon Aug 26 14:54:10 2024 : Login page accessed
+Mon Aug 26 14:54:17 2024 : User jkjk logged in successfully
+Mon Aug 26 14:54:17 2024 : Account page accessed by jkjk
+Mon Aug 26 14:54:18 2024 : Update page accessed by jkjk
+Mon Aug 26 14:56:37 2024 : Home route accessed
+Mon Aug 26 14:56:37 2024 : Login page accessed
+Mon Aug 26 14:56:44 2024 : User jkjk logged out successfully
+Mon Aug 26 14:56:44 2024 : User jkjk logged in successfully
+Mon Aug 26 14:56:44 2024 : Account page accessed by jkjk
+Mon Aug 26 14:56:45 2024 : Update page accessed by jkjk
+Mon Aug 26 14:56:54 2024 : Home route accessed
+Mon Aug 26 14:56:54 2024 : Login page accessed
+Mon Aug 26 14:56:59 2024 : Failed login attempt: Incorrect password for user 'jkjk'
+Mon Aug 26 14:57:01 2024 : Failed login attempt: Incorrect password for user 'jkjk'
+Mon Aug 26 14:57:07 2024 : User jkjk logged in successfully
+Mon Aug 26 14:57:07 2024 : Account page accessed by jkjk
+Mon Aug 26 14:57:08 2024 : Update page accessed by jkjk
+Mon Aug 26 14:58:29 2024 : Update page accessed by jkjk
+Mon Aug 26 15:04:06 2024 : Home route accessed
+Mon Aug 26 15:04:06 2024 : Login page accessed
+Mon Aug 26 15:04:16 2024 : Home route accessed
+Mon Aug 26 15:04:16 2024 : Login page accessed
+Mon Aug 26 15:04:23 2024 : User jkjk logged out successfully
+Mon Aug 26 15:04:23 2024 : User jkjk logged in successfully
+Mon Aug 26 15:04:23 2024 : Account page accessed by jkjk
+Mon Aug 26 15:04:24 2024 : Update page accessed by jkjk
+Mon Aug 26 15:07:03 2024 : Home route accessed
+Mon Aug 26 15:07:03 2024 : Login page accessed
+Mon Aug 26 15:07:09 2024 : User jkjk logged out successfully
+Mon Aug 26 15:07:09 2024 : User jkjk logged in successfully
+Mon Aug 26 15:07:09 2024 : Account page accessed by jkjk
+Mon Aug 26 15:07:10 2024 : Update page accessed by jkjk
+Mon Aug 26 15:07:37 2024 : User jkjk logged out successfully
+Mon Aug 26 15:07:37 2024 : User jkjk logged in successfully
+Mon Aug 26 15:07:37 2024 : Account page accessed by jkjk
+Mon Aug 26 15:07:38 2024 : Update page accessed by jkjk
+Mon Aug 26 15:09:24 2024 : Home route accessed
+Mon Aug 26 15:09:24 2024 : Login page accessed
+Mon Aug 26 15:09:31 2024 : User jkjk logged out successfully
+Mon Aug 26 15:09:31 2024 : User jkjk logged in successfully
+Mon Aug 26 15:09:31 2024 : Account page accessed by jkjk
+Mon Aug 26 15:09:33 2024 : Update page accessed by jkjk
+Mon Aug 26 15:30:48 2024 : Home route accessed
+Mon Aug 26 15:30:48 2024 : Login page accessed
+Mon Aug 26 15:30:58 2024 : User jkjk logged in successfully
+Mon Aug 26 15:30:58 2024 : Account page accessed by jkjk
+Mon Aug 26 15:30:59 2024 : Update page accessed by jkjk
+Mon Aug 26 15:34:47 2024 : User jkjk logged out successfully
+Mon Aug 26 15:34:47 2024 : User jkjk logged in successfully
+Mon Aug 26 15:34:47 2024 : Account page accessed by jkjk
+Mon Aug 26 15:35:45 2024 : Signup page accessed
+Mon Aug 26 15:36:12 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:18 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:37 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:38 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:38 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:38 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:39 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:36:48 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:40:51 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:40:52 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:41:39 2024 : Failed user creation for furkan with errors: {'birthdate': 'Invalid date.'}
+Mon Aug 26 15:43:24 2024 : User jkjk logged out successfully
+Mon Aug 26 15:43:24 2024 : Admin logged in successfully
+Mon Aug 26 15:43:24 2024 : Admin page accessed
+Mon Aug 26 15:43:24 2024 : Online user list retrieved
+Mon Aug 26 15:43:24 2024 : User list retrieved
+Mon Aug 26 15:43:53 2024 : Admin page accessed
+Mon Aug 26 15:43:53 2024 : User list retrieved
+Mon Aug 26 15:43:53 2024 : Online user list retrieved
+Mon Aug 26 15:43:59 2024 : Login page accessed
+Mon Aug 26 15:43:59 2024 : Login page accessed
+Mon Aug 26 15:44:03 2024 : Signup page accessed
+Mon Aug 26 15:44:09 2024 : Failed user creation for  with errors: {'password': 'Password is required.', 'email': 'Email is required.', 'birthdate': 'Invalid date.', 'username': 'Username is required.', 'firstname': 'Firstname is required.', 'lastname': 'Lastname is required.'}
+Mon Aug 26 15:44:19 2024 : Home route accessed
+Mon Aug 26 15:44:19 2024 : Login page accessed
+Mon Aug 26 15:44:20 2024 : Signup page accessed
+Mon Aug 26 15:44:26 2024 : Failed user creation for  with errors: {'password': 'Password is required.', 'email': 'Email is required.', 'username': 'Username is required.', 'firstname': 'Firstname is required.', 'lastname': 'Lastname is required.'}
+Mon Aug 26 16:07:06 2024 : Home route accessed
+Mon Aug 26 16:07:06 2024 : Login page accessed
+Mon Aug 26 16:24:57 2024 : Home route accessed
+Mon Aug 26 16:24:57 2024 : Login page accessed
+Mon Aug 26 16:25:00 2024 : Home route accessed
+Mon Aug 26 16:25:00 2024 : Login page accessed
+Mon Aug 26 16:25:03 2024 : Home route accessed
+Mon Aug 26 16:25:03 2024 : Login page accessed
+Mon Aug 26 16:25:40 2024 : Login page accessed
+Mon Aug 26 16:25:41 2024 : Login page accessed
+Mon Aug 26 16:30:09 2024 : Login page accessed
+Mon Aug 26 16:42:58 2024 : Home route accessed
+Mon Aug 26 16:42:58 2024 : Login page accessed
+Mon Aug 26 16:45:10 2024 : Signup page accessed
+Mon Aug 26 16:45:11 2024 : Failed user creation for  with errors: {'password': 'Password is required.', 'email': 'Email is required.', 'birthdate': 'Birthdate is required.', 'username': 'Username is required.', 'firstname': 'Firstname is required.', 'lastname': 'Lastname is required.'}
+Mon Aug 26 16:46:54 2024 : Failed user creation for  with errors: {'password': 'Password is required.', 'email': 'Email is required.', 'birthdate': 'Birthdate is required.', 'username': 'Username is required.', 'lastname': 'Lastname is required.'}
+Mon Aug 26 16:47:04 2024 : Failed user creation for jkjk with errors: {'username': 'Username already taken.', 'password': 'Password is required.', 'email': 'Email is required.', 'birthdate': 'Birthdate is required.', 'firstname': 'Firstname is required.', 'lastname': 'Lastname is required.'}
+Mon Aug 26 16:47:36 2024 : User jkjk logged in successfully
+Mon Aug 26 16:47:36 2024 : Account page accessed by jkjk
+Mon Aug 26 16:47:38 2024 : Update page accessed by jkjk
+Mon Aug 26 16:47:46 2024 : Update page accessed by jkjk
+Mon Aug 26 16:47:54 2024 : Failed update attempt for user jkjk with errors: {'password': 'Password is required.'}
+Mon Aug 26 16:48:00 2024 : Failed update attempt for user jkjk with errors: {'password': 'Password is required.', 'new_password': 'Passwords do not match:'}
+Mon Aug 26 16:48:07 2024 : User jkjk updated successfully
+Mon Aug 26 16:49:33 2024 : Home route accessed
+Mon Aug 26 16:49:33 2024 : Login page accessed
+Mon Aug 26 16:49:41 2024 : Failed login attempt: User 'jkjk' does not exist
+Mon Aug 26 16:49:46 2024 : User onur logged in successfully
+Mon Aug 26 16:49:46 2024 : Account page accessed by onur
+Mon Aug 26 16:49:48 2024 : Update page accessed by onur
+Mon Aug 26 16:49:57 2024 : Failed update attempt for user onur with errors: {'password': 'Password is required.'}
+Mon Aug 26 16:50:02 2024 : User onur updated successfully
+Mon Aug 26 16:53:55 2024 : Login page accessed
+Mon Aug 26 16:54:10 2024 : Failed login attempt: User 'jkjk' does not exist
+Mon Aug 26 16:54:16 2024 : Failed login attempt: User 'onur' does not exist
+Mon Aug 26 16:54:21 2024 : Signup page accessed
+Mon Aug 26 16:54:37 2024 : User created successfully: onur
+Mon Aug 26 16:54:37 2024 : Login page accessed
+Mon Aug 26 16:54:44 2024 : User onur logged in successfully
+Mon Aug 26 16:54:44 2024 : Account page accessed by onur
+Mon Aug 26 16:54:46 2024 : Update page accessed by onur
+Mon Aug 26 16:54:55 2024 : User onurghğfgh updated successfully
+Mon Aug 26 16:54:55 2024 : Account page accessed by onurghğfgh
+Mon Aug 26 16:55:00 2024 : User onurghğfgh deleted successfully
+Mon Aug 26 16:55:00 2024 : Login page accessed
+Mon Aug 26 16:57:03 2024 : Admin logged in successfully
+Mon Aug 26 16:57:03 2024 : Admin page accessed
+Mon Aug 26 16:57:03 2024 : User list retrieved
+Mon Aug 26 16:57:03 2024 : Online user list retrieved
+Mon Aug 26 16:57:15 2024 : Logs retrieved
+Mon Aug 26 16:57:16 2024 : Logs retrieved
+Mon Aug 26 16:57:24 2024 : Login page accessed
+Mon Aug 26 16:57:33 2024 : Failed login attempt: Incorrect password for user 'dsdads'
+Mon Aug 26 16:57:47 2024 : Failed login attempt: Incorrect password for user 'dsdads'
+Mon Aug 26 16:57:47 2024 : Signup page accessed
+Mon Aug 26 16:58:03 2024 : User created successfully: onur
+Mon Aug 26 16:58:03 2024 : Login page accessed
+Mon Aug 26 16:58:10 2024 : User onur logged in successfully
+Mon Aug 26 16:58:10 2024 : Account page accessed by onur
+Mon Aug 26 16:58:30 2024 : Login page accessed
+Mon Aug 26 16:58:35 2024 : Admin logged in successfully
+Mon Aug 26 16:58:35 2024 : Admin page accessed
+Mon Aug 26 16:58:35 2024 : User list retrieved
+Mon Aug 26 16:58:35 2024 : Online user list retrieved
+Mon Aug 26 16:58:43 2024 : User onur logged out successfully
+Mon Aug 26 16:58:43 2024 : Login page accessed
+Mon Aug 26 16:58:44 2024 : Admin page accessed
+Mon Aug 26 16:58:44 2024 : User list retrieved
+Mon Aug 26 16:58:44 2024 : Online user list retrieved
+Mon Aug 26 16:58:45 2024 : Admin page accessed
+Mon Aug 26 16:58:45 2024 : Online user list retrieved
+Mon Aug 26 16:58:45 2024 : User list retrieved
+Mon Aug 26 16:58:53 2024 : Login page accessed
+Tue Aug 27 11:29:44 2024 : Home route accessed
+Tue Aug 27 11:29:44 2024 : Login page accessed
+Tue Aug 27 13:22:38 2024 : Home route accessed
+Tue Aug 27 13:22:38 2024 : Login page accessed
+Tue Aug 27 13:22:42 2024 : Signup page accessed
+Tue Aug 27 13:22:46 2024 : Failed user creation for  with errors: {'password': 'Password is required.', 'email': 'Email is required.', 'username': 'Username is required.', 'firstname': 'Firstname is required.', 'lastname': 'Lastname is required.'}
+Tue Aug 27 13:23:04 2024 : User created successfully: asas
+Tue Aug 27 13:23:04 2024 : Login page accessed
+Tue Aug 27 13:23:10 2024 : User asas logged in successfully
+Tue Aug 27 13:23:10 2024 : Account page accessed by asas
+Tue Aug 27 13:23:14 2024 : Update page accessed by asas
+Tue Aug 27 13:23:17 2024 : Failed update attempt for user asas with errors: {'password': 'Password is required.'}
+Tue Aug 27 13:23:21 2024 : User asas updated successfully
+Tue Aug 27 13:23:21 2024 : Account page accessed by asas
+Tue Aug 27 16:44:23 2024 : Home route accessed
+Tue Aug 27 16:44:23 2024 : Login page accessed
+Tue Aug 27 16:44:26 2024 : Home route accessed
+Tue Aug 27 16:44:26 2024 : Login page accessed
+Wed Aug 28 11:42:58 2024 : Home route accessed
+Wed Aug 28 11:42:58 2024 : Login page accessed
+Wed Aug 28 11:43:33 2024 : Home route accessed
+Wed Aug 28 11:43:33 2024 : Login page accessed
+Wed Aug 28 11:51:44 2024 : Home route accessed
+Wed Aug 28 11:51:44 2024 : Login page accessed
+Wed Aug 28 11:52:40 2024 : Home route accessed
+Wed Aug 28 11:52:40 2024 : Login page accessed
+Wed Aug 28 11:52:53 2024 : Home route accessed
+Wed Aug 28 11:52:53 2024 : Login page accessed
+Thu Aug 29 11:34:20 2024 : Home route accessed
+Thu Aug 29 11:34:20 2024 : Login page accessed
+Thu Aug 29 13:01:18 2024 : Home route accessed
+Thu Aug 29 13:01:18 2024 : Login page accessed
+Thu Aug 29 13:01:58 2024 : Home route accessed
+Thu Aug 29 13:01:58 2024 : Login page accessed
+Thu Aug 29 13:02:27 2024 : Home route accessed
+Thu Aug 29 13:02:27 2024 : Login page accessed
