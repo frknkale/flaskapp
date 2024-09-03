@@ -1,0 +1,24 @@
+.form-row {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.form-row > div {
+    flex: 0 0 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 21px;
+    width: 169px;
+}
+Label {
+    font-size: 17px ;
+}
+input[type="date"] {
+      text-align: center;
+}
