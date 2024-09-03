@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/account.css">
+    <title>Account</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Account Information</h2>
+        <p><strong>Username:</strong> {{ user.username }}</p>
+        <p><strong>First Name:</strong> {{ user.firstname }}</p>
+        <p><strong>Middle Name:</strong> {{ user.middlename }}</p>
+        <p><strong>Last Name:</strong> {{ user.lastname }}</p>
+        <p><strong>Email:</strong> {{ user.email }}</p>
+
+        <h3>Manage Account</h3>
+        <button class="account-button" id="update-account-button" onclick=" navigateToUpdatePage({{ user.id }})">Update Account</button><br>
+        <button class="account-button" id="delete-account-button" onclick="showConfirm('delete')">Delete Account</button><br>
+        <button class="account-button" id="logout-button" onclick="showConfirm('logout')">Logout</button>
+
+        <div class="alert" id="alert">
+            <span id="closebtn" class="closebtn">&times;</span>
+            <span class="alert-message"></span>
+        </div>
+
+        <div id="confirm" class="confirm">
+            <p id="confirm-message"></p>
+            <button id="confirm-ok-btn">OK</button>
+            <button class="cancel-btn" id="confirm-cancel-btn">Cancel</button>
+        </div>
+    </div>
+
+    <script src="/static/account.js"></script>
+</body>
+</html>

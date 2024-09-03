@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <h2>Login</h2>
+    <div id="error-message" style="color:red;"></div>
+    <form id="login-form">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username" required><br><br>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br><br>
+        <input type="button" value="Login" onclick="submitLogin()">
+    </form>
+    <p>Don't have an account? <a href="/signup">Sign Up</a></p>
+
+
+    <script>
+        function submitLogin() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            fetch('/login',{
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ username, password })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    if(data.isAdmin) {
+                        window.location.href = "/admin_page";
+                        document.getElementById('error-message').textContent = "";
+                    }
+                    else{
+                        window.location.href = "/account_page";
+                        document.getElementById('error-message').textContent = "";
+                    }
+                } else {
+                    document.getElementById('error-message').textContent = data.error;
+                }
+            });
+        }
+    </script>
+</body>
+</html>

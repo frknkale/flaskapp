@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/update.css">
+    <title>Update Account</title>
+</head>
+<body>
+    <h2>Update Account Information</h2>
+    <form id="update-form">
+        <div class="form-row">
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" value="{{ user.username }}" required>
+            </div>
+            <div>
+                <span id="username-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="firstname">First Name:</label>
+                <input type="text" id="firstname" name="firstname" value="{{ user.firstname }}" required>
+            </div>
+            <div>
+                <span id="firstname-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="middlename">Middle Name:</label>
+                <input type="text" id="middlename" name="middlename" value="{{ user.middlename }}">
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="lastname">Last Name:</label>
+                <input type="text" id="lastname" name="lastname" value="{{ user.lastname }}" required>
+            </div>
+            <div>
+                <span id="lastname-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="birthdate">Birthdate:</label>
+                <input type="date" id="birthdate" name="birthdate" value="{{ user.birthdate }}">
+            </div>
+            <div>
+                <span id="birthdate-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" value="{{ user.email }}" required>
+            </div>
+            <div>
+                <span id="email-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="new_password">New Password:</label>
+                <input type="password" id="new_password" name="password">
+            </div>
+            <div>
+                <label for="confirm_password">Confirm New Password:</label>
+                <input type="password" id="confirm_password" name="password">
+            </div>
+            <div>
+                <span id="new_password-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <div class="form-row">
+            <div>
+                <label for="password">Current Password:</label>
+                <input type="password" id="password" name="password">
+            </div>
+            <div>
+                <span id="password-error" class="error-message"></span>
+            </div>
+        </div><br>
+        <input type="button" value="Update" onclick="submitUpdate()">
+    </form>
+    <div id="error-message" style="color:red;"></div>
+    <p><a href="/account_page">Back to Account</a></p>
+
+    <script src = "/static/update.js"></script>
+</body>
+</html>

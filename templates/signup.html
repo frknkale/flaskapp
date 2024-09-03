@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/signup.css">
+    <title>Sign Up</title>
+</head>
+<body>
+    <h2>Sign Up</h2>
+    <form id="signup-form">
+         <div class="form-row">
+            <div>
+                <label for="firstname">First Name:</label>
+                <input type="text" id="firstname" name="firstname" required>
+                <span id="firstname-error" class="error-message"></span>
+            </div>
+            <div>
+                <label for="middlename">Middle Name:</label>
+                <input type="text" id="middlename" name="middlename">
+                <span id="middlename-error" class="error-message"></span>
+            </div>
+            <div>
+                <label for="lastname">Last Name:</label>
+                <input type="text" id="lastname" name="lastname" required>
+                <span id="lastname-error" class="error-message"></span>
+            </div>
+            <div>
+                <label for="birthdate">Birthdate:</label>
+                <input type="date" id="birthdate" name="birthdate" required>
+                <span id="birthdate-error" class="error-message"></span>
+            </div>
+        </div><br><br>
+        <div class="form-row">
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+                <span id="username-error" class="error-message"></span>
+            </div>
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                <span id="password-error" class="error-message"></span>
+            </div>
+        </div><br><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <span id="email-error" class="error-message"></span><br><br>
+
+        <input type="button" value="Sign Up" onclick="submitSignup()">
+    </form>
+    <p>Already have an account? <a href="/login_page">Login</a></p>
+
+    <script src = "/static/signup.js"></script>
+</body>
+</html>

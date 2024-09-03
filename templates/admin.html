@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+    <header>
+        <h2>Admin Panel</h2>
+    </header>
+    <div class="admin-container">
+        <aside class="sidebar">
+            <ul>
+                <li><button class="nav-btn" onclick="toggleView('user-list')">User List</button></li>
+                <li><button class="nav-btn" onclick="toggleView('online-users')">Online Users</button></li>
+                <li><button class="nav-btn" onclick="getLogs(); toggleView('logs-container');">Get Logs</button></li>
+                <li><button class="nav-btn logout" onclick="logout()">Logout</button></li>
+            </ul>
+        </aside>
+        <main class="content">
+            <div id="user-list" class="table-card">
+                <h3>User List</h3>
+                <table id="user-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Username</th>
+                            <th>First Name</th>
+                            <th>Middle Name</th>
+                            <th>Last Name</th>
+                            <th>Email</th>
+                            <th>Birthdate</th>
+                        </tr>
+                    </thead>
+                    <tbody id="user-table-body"></tbody>
+                </table>
+            </div>
+            <div id="online-users" class="table-card hidden">
+                <h3>Online Users</h3>
+                <table id="online-user-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Username</th>
+                            <th>IP Address</th>
+                            <th>Login Time</th>
+                        </tr>
+                    </thead>
+                    <tbody id="online-user-table-body"></tbody>
+                </table>
+            </div>
+            <div id="logs-container" class="logs-card hidden"></div>
+
+        </main>
+    </div>
+
+    <script src="/static/admin.js"></script>
+</body>
+</html>
